@@ -1,0 +1,8 @@
+{
+    "name": "inspheric/scaffolds",
+    "autoload": {
+        "psr-4": {
+            "Inspheric\\Scaffolds\\": "src/"
+        }
+    }
+}
